@@ -18,6 +18,8 @@ require (
 	github.com/cavaliergopher/grab/v3 v3.0.1
 	github.com/codeclysm/extract/v3 v3.0.2
 	github.com/dgraph-io/badger/v3 v3.2103.2
+	github.com/drand/kyber v1.2.0 // indirect
+	github.com/drand/kyber-bls12381 v0.3.1 // indirect
 	github.com/ethereum/go-ethereum v1.10.26
 	github.com/fatih/structtag v1.2.0
 	github.com/google/go-cmp v0.5.9
@@ -26,10 +28,12 @@ require (
 	github.com/ipfs/go-libipfs v0.6.2
 	github.com/ipfs/interface-go-ipfs-core v0.11.0
 	github.com/ipfs/kubo v0.19.1
+	github.com/kilic/bls12-381 v0.1.0 // indirect
 	github.com/knadh/koanf v1.4.0
 	github.com/libp2p/go-libp2p v0.26.4
 	github.com/multiformats/go-multiaddr v0.8.0
 	github.com/multiformats/go-multihash v0.2.1
+	github.com/sirupsen/logrus v1.9.3 // indirect
 	github.com/spf13/pflag v1.0.5
 	github.com/stretchr/testify v1.8.2
 	github.com/wasmerio/wasmer-go v1.0.4
@@ -313,7 +317,7 @@ require (
 	github.com/tklauser/go-sysconf v0.3.5 // indirect
 	github.com/tklauser/numcpus v0.2.2 // indirect
 	github.com/tyler-smith/go-bip39 v1.1.0 // indirect
-	golang.org/x/crypto v0.6.0
+	golang.org/x/crypto v0.7.0
 	golang.org/x/net v0.8.0 // indirect
 	golang.org/x/sync v0.1.0 // indirect
 	golang.org/x/sys v0.7.0
